@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# MLflow
+mlruns/
+
+# data
+data/
