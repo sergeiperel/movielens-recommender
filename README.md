@@ -19,7 +19,7 @@ The app is hosted on Streamlit Cloud:
 1. Clone repository
 
 ```
-git clone https://github.com/your-username/movielens-recommender.git
+git clone https://github.com/sergeiperel/movielens-recommender.git
 cd movielens-recommender
 ```
 
