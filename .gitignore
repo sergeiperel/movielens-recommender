@@ -15,5 +15,3 @@ venv/
 # MLflow
 mlruns/
 
-# data
-data/
