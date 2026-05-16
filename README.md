@@ -8,6 +8,13 @@
 
 Movie recommender system based on matrix factorization (ALS / SVD) trained on [MovieLens dataset](https://grouplens.org/datasets/movielens/). Provides personalized recommendations based on user-selected preferences.
 
+
+## 🚀 Live Demo
+
+The app is hosted on Streamlit Cloud:
+👉 **[Try app here](https://movielens-recsys.streamlit.app/)**
+
+
 ## ⚙️ Installation
 1. Clone repository
 
